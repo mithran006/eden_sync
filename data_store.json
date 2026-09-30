@@ -1,0 +1,1655 @@
+{
+  "applications": [
+    {
+      "id": "EDEN-2026-001",
+      "createdAt": "2026-09-13T10:32:14.078Z",
+      "applicantName": "Deepak Kumar",
+      "phone": "+91 98421 77340",
+      "applicantAddress": "Plot 42, Green Valley Colony, Coimbatore, Tamil Nadu",
+      "landAddress": "Survey No. 114, Pollachi Highway Bypass, Coimbatore",
+      "landArea": 6.5,
+      "areaUnit": "acres",
+      "landType": "Agricultural Farmland",
+      "isFarmer": true,
+      "willingToLease": true,
+      "restorationType": "Agricultural Restoration",
+      "soilTestingRequested": true,
+      "waterTestingRequested": true,
+      "photoUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80",
+      "landPhotoUrls": [
+        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=800&q=80"
+      ],
+      "identityCardType": "Aadhaar Card",
+      "identityCardNumber": "5432-8765-1098",
+      "identityCardFile": "Aadhaar_DeepakKumar.pdf",
+      "landDocumentType": "Patta / Chitta (Revenue Record)",
+      "landDocumentNumber": "Patta No. 451/2024",
+      "landDocumentFile": "Patta_Chitta_Deed_114.pdf",
+      "registerCopyUrl": "Patta_Chitta_Deed_114.pdf",
+      "status": "Restoration In-Progress",
+      "adminNotes": "Soil alkalinity test scheduled. Organic mulching plan initialized.",
+      "assignedExpert": "Dr. Anita Roy (Soil Bio-Chemist)",
+      "aiAnalysis": {
+        "soilWaterHealthSummary": "Soil and water health analysis configured for organic carbon enrichment.",
+        "recommendedSteps": [
+          "Apply organic humic compost and green manure.",
+          "Implement drip irrigation with rainwater catchment.",
+          "Rotate with nitrogen-fixing cover crops."
+        ],
+        "estimatedTimelineWeeks": 12,
+        "ecoImpactScore": 88,
+        "inspiringQuote": "Healing this farmland secures food, clean water, and biodiversity."
+      },
+      "soilDetection": {
+        "condition": "healthy",
+        "conditionLabel": "Healthy / Fertile Loam",
+        "soilType": "Alluvial Soil (River Silt / Loam)",
+        "confidenceScore": 94,
+        "moisturePercentage": 38,
+        "moistureStatus": "Optimal Field Capacity (35-50%)",
+        "organicMatterEstimate": "High / Rich (> 1.5%)",
+        "textureSummary": "Crumbly granular topsoil rich in decomposed organic matter with porous root channels.",
+        "visualMarkers": [
+          "Deep dark brown humus coloration",
+          "Loose friable crumb structure",
+          "Active earthworm castings",
+          "Uniform moisture retention"
+        ],
+        "soilHealthIndex": 89,
+        "drainageClass": "Well-Drained",
+        "phEstimateRange": "6.8 - 7.2 (Neutral Optimal)",
+        "compactionRating": "Low (Porous & Crumbly)",
+        "tailoredRejuvenation": [
+          "Maintain organic topdressing and periodic humic acid foliar sprays.",
+          "Implement 4-stage crop rotation with legume cover crops (Cowpea / Mung bean).",
+          "Incorporate bio-inoculant mycorrhizal fungi to sustain natural nutrient absorption pathways."
+        ],
+        "recommendedCrops": [
+          "Organic Wheat",
+          "Mustard",
+          "Vegetables (Tomatoes, Okra)",
+          "Fruit Orchards (Guava, Pomegranate)"
+        ],
+        "analyzedAt": "2026-09-13T10:32:14.078Z"
+      }
+    },
+    {
+      "id": "EDEN-2026-002",
+      "createdAt": "2026-09-09T10:32:14.078Z",
+      "applicantName": "Kavitha Sundaram",
+      "phone": "+91 94432 10987",
+      "applicantAddress": "15 Lakeview Avenue, Coimbatore, Tamil Nadu",
+      "landAddress": "Survey No. 89, Singanallur Lake Margin Area",
+      "landArea": 80,
+      "areaUnit": "cents",
+      "landType": "Pond / Water Body",
+      "isFarmer": false,
+      "willingToLease": false,
+      "restorationType": "Water Body Rejuvenation",
+      "soilTestingRequested": false,
+      "waterTestingRequested": true,
+      "photoUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80",
+      "registerCopyUrl": "Property_Ownership_Cert_89.pdf",
+      "status": "Soil/Water Sample Collected",
+      "adminNotes": "Water sample dispatched to Regional Limnology Lab.",
+      "assignedExpert": "Er. S. Kumar (Hydrology Specialist)",
+      "aiAnalysis": {
+        "soilWaterHealthSummary": "Pond water testing scheduled for bio-filtration setup.",
+        "recommendedSteps": [
+          "De-silt sediment layer using eco-dredging pumps.",
+          "Plant native floating vetiver beds for bio-filtration.",
+          "Construct a perimeter bio-swale."
+        ],
+        "estimatedTimelineWeeks": 10,
+        "ecoImpactScore": 92,
+        "inspiringQuote": "A single restored pond recharges groundwater for neighboring households."
+      },
+      "soilDetection": {
+        "condition": "heavy",
+        "conditionLabel": "Heavy / Waterlogged Silt-Clay",
+        "soilType": "Peaty / Organic Wetland Soil",
+        "confidenceScore": 91,
+        "moisturePercentage": 68,
+        "moistureStatus": "Excess / Waterlogged (> 60%)",
+        "organicMatterEstimate": "Moderate (0.6 - 1.2%)",
+        "textureSummary": "High plasticity dense alluvial silt-clay with low air porosity and surface pooling.",
+        "visualMarkers": [
+          "Standing water sheen and fine sediment suspension",
+          "Gleyed bluish-grey anaerobic subsurface layer",
+          "Dense heavy colloidal silt binding",
+          "Slow percolation dynamics"
+        ],
+        "soilHealthIndex": 68,
+        "drainageClass": "Poor / Impermeable",
+        "phEstimateRange": "6.2 - 6.8 (Slightly Acidic)",
+        "compactionRating": "High (Dense Hardpan)",
+        "tailoredRejuvenation": [
+          "Excavate peripheral drainage swales and contour infiltration trenches to shed excess surface hydrostatic load.",
+          "Introduce floating vetiver phytoremediation rafts to aerate root zones and extract trapped chemical effluents.",
+          "Incorporate coarse sand and agricultural gypsum (2 tons/acre) to break impermeable colloidal bonds."
+        ],
+        "recommendedCrops": [
+          "Deep-water Paddy (Pokkali)",
+          "Taro / Colocasia",
+          "Water Spinach (Kangkong)",
+          "Bamboo & Reed Bio-fencing"
+        ],
+        "analyzedAt": "2026-09-09T10:32:14.078Z"
+      }
+    },
+    {
+      "id": "EDEN-2026-003",
+      "createdAt": "2026-09-15T10:32:14.078Z",
+      "applicantName": "Vikram Singh Shekhawat",
+      "phone": "+91 98290 12345",
+      "applicantAddress": "Heritage Villa, Amer Road, Jaipur, Rajasthan",
+      "landAddress": "Khasra No. 204, Sambhar Salt Basin Boundary Zone",
+      "landArea": 12,
+      "areaUnit": "acres",
+      "landType": "Barren / Fallow Land",
+      "isFarmer": true,
+      "willingToLease": true,
+      "restorationType": "Hybrid Agro-Forestry",
+      "soilTestingRequested": true,
+      "waterTestingRequested": true,
+      "photoUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+      "registerCopyUrl": "Khasra_Registry_204.pdf",
+      "status": "Pending Review",
+      "adminNotes": "Application registered. Preliminary satellite imagery reviewed.",
+      "assignedExpert": "Pending Assignment",
+      "aiAnalysis": {
+        "soilWaterHealthSummary": "Arid sandy topsoil ready for moisture conservation techniques.",
+        "recommendedSteps": [
+          "Construct semi-circular bunds for rainwater harvesting.",
+          "Plant drought-resilient native trees.",
+          "Inoculate soil with mycorrhizal fungi."
+        ],
+        "estimatedTimelineWeeks": 16,
+        "ecoImpactScore": 84,
+        "inspiringQuote": "Turning barren ground into a green oasis is the ultimate stewardiship."
+      },
+      "soilDetection": {
+        "condition": "dry",
+        "conditionLabel": "Dry / Arid Soil",
+        "soilType": "Red Sandy Loam (Alfisol / Semmann)",
+        "confidenceScore": 96,
+        "moisturePercentage": 11,
+        "moistureStatus": "Critically Dry (< 15%)",
+        "organicMatterEstimate": "Very Low (< 0.4%)",
+        "textureSummary": "High sand fraction with severe moisture depletion, loose unaggregated particles, and wind erosion risk.",
+        "visualMarkers": [
+          "Pale sun-bleached reddish hue",
+          "Deep polygon desiccation cracks",
+          "Zero surface moisture condensation",
+          "Low organic litter cover"
+        ],
+        "soilHealthIndex": 54,
+        "drainageClass": "Very Fast / Excessive",
+        "phEstimateRange": "7.8 - 8.3 (Alkaline Tendency)",
+        "compactionRating": "Moderate (Workable)",
+        "tailoredRejuvenation": [
+          "Apply high-temperature biochar (4 tons/acre) combined with farmyard manure to establish moisture sponges.",
+          "Construct crescent-shaped earthen bunds (swales) along contours to trap monsoon runoff.",
+          "Apply thick organic straw/coir mulch (3 inches) to slash solar evaporation by up to 75%."
+        ],
+        "recommendedCrops": [
+          "Pearl Millet (Bajra)",
+          "Sorghum (Jowar)",
+          "Moth Bean",
+          "Drought-tolerant Moringa",
+          "Neem & Khejri Agroforestry"
+        ],
+        "analyzedAt": "2026-09-15T10:32:14.078Z"
+      }
+    }
+  ],
+  "govtProjects": [
+    {
+      "id": "GOVT-TN-01",
+      "title": "Perur Lake Eco-Dredging & Wetland Rejuvenation",
+      "department": "Water Resources Department & Municipal Administration",
+      "location": "Coimbatore District, Tamil Nadu",
+      "targetArea": "0 Acres",
+      "completionPercentage": 0,
+      "status": "Ongoing",
+      "allocatedBudget": "₹0",
+      "beneficiaries": 0,
+      "description": "Systematic removal of invasive water hyacinth, dredging sediment silt, and developing 14 floating artificial reed wetlands for biological nutrient absorption.",
+      "beforeImageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80",
+      "afterImageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80",
+      "category": "Waterbodies",
+      "lastUpdated": "2026-08-15"
+    },
+    {
+      "id": "GOVT-GJ-02",
+      "title": "Bhal Saline Soil Reclamation & Agro-Forestry Corridor",
+      "department": "Gujarat State Land Development Corporation (GSLDC)",
+      "location": "Bhal Region, Ahmedabad & Bhavnagar Districts",
+      "targetArea": "0 Acres",
+      "completionPercentage": 0,
+      "status": "Planning",
+      "allocatedBudget": "₹0",
+      "beneficiaries": 0,
+      "description": "Combating sea ingress and soil alkalinity by creating subterranean drainage trenches, gypsum soil conditioning, and dense afforestation with halophytic native trees.",
+      "beforeImageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+      "afterImageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80",
+      "category": "Agricultural",
+      "lastUpdated": "2026-08-10"
+    },
+    {
+      "id": "GOVT-KA-03",
+      "title": "Pennar River Catchment Tank Cascade Revival",
+      "department": "Minor Irrigation & Ground Water Development Dept",
+      "location": "Kolar & Chikkaballapura, Karnataka",
+      "targetArea": "0 Acres",
+      "completionPercentage": 0,
+      "status": "Ongoing",
+      "allocatedBudget": "₹0",
+      "beneficiaries": 0,
+      "description": "Restoration of ancient interconnected chain tanks (Eris) with check dams, recharge shafts, and desilting to restore depleted borewell aquifers.",
+      "beforeImageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80",
+      "afterImageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80",
+      "category": "Watershed",
+      "lastUpdated": "2026-08-18"
+    }
+  ],
+  "awarenessArticles": [
+    {
+      "id": "ART-001",
+      "title": "Reviving Dead Soil: The Power of Green Manuring & Bio-Mulching",
+      "category": "Soil Revival",
+      "readTime": "5 min read",
+      "summary": "How fast-growing nitrogen-fixing legumes like Sunn Hemp and Sesbania can transform sterile, sunbaked clay into nutrient-rich humus within 60 days.",
+      "imageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80",
+      "keyTips": [
+        "Sow Sesbania (Daincha) or Sunn Hemp at 25 kg/acre right before monsoon showers.",
+        "Plough the green crop into the topsoil at 45–50 days when 50% flowering begins.",
+        "Cover with dry leaf mulch to prevent direct solar degradation of microbial colonies."
+      ],
+      "content": "Modern chemical farming and mono-cropping strip the soil of its most fundamental asset: organic carbon. When topsoil organic carbon drops below 0.5%, beneficial micro-organisms, earthworms, and mycorrhizal networks collapse, causing soil compaction, salinity, and water run-off.\n\nGreen manuring is nature's fastest remedy. By planting fast-growing leguminous crops and incorporating them into the soil just before flowering, farmers can add between 15 to 25 tonnes of fresh green biomass per acre. This rapidly decomposes, elevating microbial activity and releasing vital nitrogen, phosphorus, and potassium in plant-absorbable organic form.\n\n### Step-by-Step Implementation:\n1. **Selection of Seed Varieties**: Use Daincha (Sesbania aculeata) for waterlogged or alkaline soils, and Sunn Hemp (Crotalaria juncea) for well-drained sandy loams.\n2. **Timing of Incorporation**: The optimal stage is 45–50 days after sowing when the succulent stems have high nitrogen and low lignin, allowing rapid 2-week decomposition.\n3. **Moisture Maintenance**: Ensure soil has moderate moisture during rotavation to kickstart aerobic microbial breakdown."
+    },
+    {
+      "id": "ART-002",
+      "title": "Community Pond De-silting: The Blueprint for Groundwater Security",
+      "category": "Waterbodies",
+      "readTime": "6 min read",
+      "summary": "A step-by-step guide to removing toxic sediment from village ponds, restoring tank cascade interconnectivity, and utilizing nutrient-dense silt as natural fertilizer.",
+      "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80",
+      "keyTips": [
+        "Perform silt extraction only during peak dry season (March–May) before pre-monsoon rains.",
+        "Test extracted lake silt for heavy metal toxicity before applying to crop fields.",
+        "Construct a perimeter bund planted with Vetiver grass to prevent recurring erosion."
+      ],
+      "content": "Over decades, agricultural runoff, decayed biomass, and unmanaged silt choke natural ponds and tanks, reducing their storage capacity by up to 80%. When a water body loses depth, sunlight penetrates the shallow water column, driving rapid evaporation and algae blooms instead of deep percolation.\n\nDe-silting restores the pond's sponge effect. When the impervious hard clay silt layer is removed, rainwater can directly recharge deep subterranean fissures and aquifers.\n\n### Ecological Benefits of Tank Silt:\n- **Natural Soil Conditioner**: Lake silt is rich in decomposed organic matter, clay-humus complexes, and essential minerals washed down from upper catchments.\n- **Aquifer Pressure**: Deeper ponds create hydraulic head pressure, forcing recharge into surrounding borewells within a 2.5 km radius.\n- **Community Silt Sharing**: Organize tractors during summer months to distribute top silt onto dryland plots, cutting synthetic fertilizer needs by 40%."
+    },
+    {
+      "id": "ART-003",
+      "title": "Combating El Niño & Drought: Building Resilient Farm Micro-Climates",
+      "category": "Climate Adaptation",
+      "readTime": "6 min read",
+      "summary": "Deploying swales, keyline design, multi-tier agro-forestry, and drought-resistant native tree windbreaks to shield crops from extreme weather anomalies.",
+      "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+      "keyTips": [
+        "Dig continuous on-contour swales to hold 100% of episodic torrential downpours.",
+        "Plant multi-layer windbreaks (Neem, Khejri, Tamarind) on the windward field boundaries.",
+        "Incorporate biochar into root zones to create underground moisture reservoirs."
+      ],
+      "content": "El Niño cycles disrupt predictable monsoon patterns, causing severe heatwaves and irregular rainfall spikes. Conventional bare-earth fields lose up to 70% of moisture to direct solar radiation and wind evaporation.\n\nBy implementing keyline contour swales and multi-tier tree canopies, landowners create a cooling micro-climate. The subterranean water table is steadily nourished, keeping root systems hydrated even during extended dry spells.\n\n### Micro-Climate Stabilization Protocol:\n- **Sub-Surface Clay Pot (Olla) Irrigation**: Buried unglazed clay pots release water via soil suction directly to feeder roots with 90% water conservation.\n- **Living Mulch Cover**: Inter-crop cowpeas, velvet beans, or clover to keep soil temperature under 28°C even when ambient air reaches 42°C."
+    },
+    {
+      "id": "ART-004",
+      "title": "Biochar Pyrolysis & Activation: Creating Permanent Subterranean Carbon Sponges",
+      "category": "Soil Revival",
+      "readTime": "7 min read",
+      "summary": "How to convert dry agricultural residues into high-porosity recalcitrant carbon, inoculate it with mycorrhizal fungi, and lock moisture in soils for centuries.",
+      "imageUrl": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?auto=format&fit=crop&w=800&q=80",
+      "keyTips": [
+        "Pyrolyze crop stalks at 450–600°C in oxygen-starved cone kilns to prevent ash formation.",
+        "Never apply raw, un-inoculated biochar directly — always charge with cow dung slurry or compost for 14 days.",
+        "Apply at 2–4 tonnes/acre to permanently increase cation exchange capacity (CEC)."
+      ],
+      "content": "Raw agricultural waste like cotton stalks, corn cobs, and coconut shells are frequently burned openly, releasing particulate matter and greenhouse gases. When pyrolyzed in low-oxygen kilns, these materials transform into Biochar — a pure honeycomb matrix of microscopic carbon chambers.\n\n### The Inoculation / Charging Phase:\nRaw biochar acts like an empty sponge and will temporarily rob the soil of moisture and nitrogen if applied directly. \n\n**How to Charge Biochar:**\n1. Mix crushed biochar (particle size 2–5mm) with fresh cow dung slurry, Jeevamrutha, or vermicompost in a 1:1 volume ratio.\n2. Allow the blend to ferment under shade for 14 to 21 days while keeping moisture at 40%.\n3. Beneficial aerobic microbes and mycorrhizal fungi colonize the microscopic pores, loading them with active nutrients.\n\nWhen broadcast into the top 6 inches of farm soil, charged biochar permanently elevates soil water retention by up to 300%, buffers against salinity spikes, and persists in the soil profile for hundreds of years."
+    },
+    {
+      "id": "ART-005",
+      "title": "Floating Wetland Islands (Phytoremediation): Bio-Filtering Polluted Lakes",
+      "category": "Waterbodies",
+      "readTime": "5 min read",
+      "summary": "Building low-cost floating rafts with Vetiver grass and Canna Indica to absorb industrial nitrates, phosphorus, and heavy metals without chemical additives.",
+      "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80",
+      "keyTips": [
+        "Construct buoyant frames using bamboo poles and recycled PVC pipes lined with coir mesh.",
+        "Plant deep-rooting hyperaccumulators: Vetiver grass (Chrysopogon zizanioides) and Canna indica.",
+        "Harvest mature plant biomass every 4 months to permanently extract sequestered nutrients."
+      ],
+      "content": "Excessive fertilizer runoff and untreated domestic greywater flood waterbodies with nitrogen and phosphorus, sparking rapid eutrophication, toxic blue-green algae scums, and mass fish suffocations due to zero dissolved oxygen (anoxia).\n\nFloating Treatment Wetlands (FTWs) mimic natural estuary cleansers:\n- **Root Surface Bio-films**: As plant roots dangle freely in the water column, they develop thick biofilms of aerobic bacteria that digest organic sludge and break down ammonia into harmless nitrogen gas.\n- **Heavy Metal Absorption**: Vetiver roots can extend up to 3 meters downward, actively accumulating lead, zinc, and synthetic dyes into plant cell vacuoles.\n- **Sunlight Shielding**: The floating canopy shades the water column, lowering water temperatures and suppressing photosynthetic algae blooms."
+    },
+    {
+      "id": "ART-006",
+      "title": "The 7-Layer Food Forest: Multi-Tier Agroforestry for Maximum Yield",
+      "category": "Agroecology",
+      "readTime": "8 min read",
+      "summary": "A permaculture blueprint mimicking natural tropical forest ecology to produce timber, fruits, spices, pulses, and forage on a single compact parcel.",
+      "imageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80",
+      "keyTips": [
+        "Layer 1 & 2 (Canopy & Sub-canopy): Tall timber/fruit trees (Tamarind, Mango, Jackfruit, Neem).",
+        "Layer 3 & 4 (Shrubs & Herbaceous): Citrus, Moringa, Papaya, Pigeon pea, and Banana.",
+        "Layer 5, 6 & 7 (Rhizosphere, Groundcover & Vines): Turmeric, Ginger, Sweet potato, and Pepper vines."
+      ],
+      "content": "Monoculture farming leaves over 60% of vertical sunlight and subterranean root zones completely unutilized, while exposing bare ground to erosion and weeds. \n\nThe 7-Layer Syntropic Agroforestry model creates complete ecological synergy:\n1. **Tall Overstory Canopy (30ft+)**: Coconut, Teak, Neem, and Jackfruit capture peak solar radiation.\n2. **Sub-Canopy Fruit Layer (15-25ft)**: Guava, Pomegranate, Sapota, and Moringa thrive under dappled sunlight.\n3. **Shrub Bush Layer (6-10ft)**: Coffee, Pigeon Pea (Arhar), and Curry Leaf bushes.\n4. **Herbaceous Layer (2-5ft)**: Basil, Marigold (natural nematicide), and Chilli.\n5. **Rhizosphere Root Layer (Sub-surface)**: Turmeric, Ginger, Elephant Yam, and Colocasia.\n6. **Soil Surface Groundcover (0-1ft)**: Cowpea, Sweet Potato, and Clover acting as living moisture blankets.\n7. **Vertical Climber Layer**: Black Pepper and Betel leaf climbing the trunks of tall canopy trees.\n\nThis integrated ecosystem produces continuous weekly harvests, virtually eliminates weed growth, and builds self-renewing topsoil organic matter."
+    },
+    {
+      "id": "ART-007",
+      "title": "Keyline Swales & Continuous Contour Trenches (CCT) for Watersheds",
+      "category": "Rainwater Harvesting",
+      "readTime": "6 min read",
+      "summary": "Mastering the A-frame level to carve zero-gradient ditches across sloped farmland, stopping gully erosion and recharging dry borewells.",
+      "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+      "keyTips": [
+        "Use a simple 2-meter wooden A-frame with a plumb bob to mark true topographical contours.",
+        "Excavate continuous trenches 1.5 ft wide by 1.5 ft deep along contour lines.",
+        "Deposit excavated soil on the downhill side to form an earthen berm planted with Vetiver or Stylosanthes grass."
+      ],
+      "content": "When intense monsoon rains strike sloped terrains, water rushes downhill at destructive velocities, stripping centimeters of fertile topsoil and carving deep gullies while failing to replenish groundwater.\n\n### The Physics of Keyline Infiltration:\nA contour swale is an unlined, flat-bottomed ditch cut strictly on the topographical contour line (perpendicular to the slope). \n\n- **Slow, Spread, and Sink**: The swale arrests rushing runoff, spreads it evenly along the contour line, and forces millions of liters into subterranean sub-soil fissures.\n- **Hydrated Tree Mounds**: Planting deep-rooted fruit or timber trees on the downhill earthen berm gives them continuous access to the subterranean moisture plume.\n- **Check-Dam Stepped Cascades**: In natural gullies, install loose rock check dams with geotextile backing to trap silt while allowing clean water percolation."
+    },
+    {
+      "id": "ART-008",
+      "title": "Living Bio-Fences: Thorny, Nitrogen-Fixing & Wildlife-Deterrent Walls",
+      "category": "Bio-fencing",
+      "readTime": "5 min read",
+      "summary": "Replacing expensive barbed wire and rusted chain-link with impenetrable living hedgerows that yield fodder, firewood, and organic pesticides.",
+      "imageUrl": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?auto=format&fit=crop&w=800&q=80",
+      "keyTips": [
+        "Outer Ring: Dense thorny species like Agave americana, Karonda (Carissa carandas), and Cactus.",
+        "Middle Ring: Nitrogen-fixing fodder trees like Gliricidia sepium and Sesbania grandiflora.",
+        "Establish close 0.5-meter zig-zag planting during early monsoon for rapid root interlocking."
+      ],
+      "content": "Conventional steel barbed wire fencing is expensive, rusts within 4 years in humid climates, and provides zero ecological return on investment. \n\nA multi-tier living bio-fence provides 5 key functions simultaneously:\n1. **Physical & Wildlife Barrier**: Dense rows of *Agave americana*, *Carissa carandas* (Karonda), and *Euphorbia tirucalli* create impenetrable, razor-sharp thorny barriers that deter stray cattle, wild boars, and trespassers.\n2. **Nitrogen Fixation & Green Mulch**: Interplanted *Gliricidia sepium* can be lopped 3 to 4 times a year to yield up to 10 tonnes/km of nitrogen-rich green foliage for soil mulching.\n3. **Wind & Evaporation Break**: Dense living fences reduce wind speeds across crop fields by up to 50%, cutting crop water stress significantly.\n4. **Beneficial Predator Habitat**: Living hedges host predatory birds, praying mantises, and ladybugs that feed on agricultural pests."
+    },
+    {
+      "id": "ART-009",
+      "title": "Recharge Borewells: Funneling Monsoon Spikes into Deep Dry Aquifers",
+      "category": "Rainwater Harvesting",
+      "readTime": "6 min read",
+      "summary": "Transforming failing, dried-up agricultural borewells into high-capacity groundwater recharge shafts with gravel, charcoal, and sand filter beds.",
+      "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80",
+      "keyTips": [
+        "Excavate a 10x10x10 ft settlement pit around the borewell casing pipe.",
+        "Perforate the upper casing pipe with 10mm holes wrapped in high-density nylon mesh.",
+        "Fill the filtration pit in reverse layers: Boulders (bottom) ➔ Gravel ➔ Activated Charcoal ➔ Coarse Sand (top)."
+      ],
+      "content": "Over-extraction has depleted deep subterranean aquifers, leaving thousands of farm borewells dry. During heavy monsoon cloudbursts, vast volumes of clean runoff escape to the sea.\n\n### The Direct Borewell Injection System:\nA direct recharge borewell captures surface runoff and channels it through a multi-stage sediment filtration chamber directly into deep underground rock fissures.\n\n**Filtration Chamber Configuration:**\n1. **Primary Silt Settlement Sump**: Captures incoming muddy water, allowing heavy suspended soil to settle before entering the main pit.\n2. **Multi-Media Filtration Layers**:\n   - Bottom 3 feet: 40-60mm granite boulders.\n   - Middle 3 feet: 20mm graded blue metal gravel.\n   - Core layer: 1 foot of agricultural charcoal to adsorb chemical traces.\n   - Top 3 feet: Clean washed river sand to filter fine colloids.\n3. **Slotted Casing Pipe**: Micro-mesh wrapping prevents any sand grains from slipping down the borewell shaft."
+    },
+    {
+      "id": "ART-010",
+      "title": "Trap Cropping & Pollinator Corridors: Ecological Pest Suppression",
+      "category": "Agroecology",
+      "readTime": "5 min read",
+      "summary": "Deploying sacrificial border plants, push-pull pest repellents, and nectar-rich pollinator highways to eliminate synthetic chemical insecticide sprays.",
+      "imageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80",
+      "keyTips": [
+        "Plant African Marigold border rows every 15 crop rows to attract and trap tomato fruit borers.",
+        "Sow Castor as a boundary trap crop for Spodoptera litura (Tobacco caterpillar) egg masses.",
+        "Intercrop Sweet Fennel, Coriander, and Sunflower to feed parasitic wasps and hoverflies."
+      ],
+      "content": "Routine chemical pesticide spraying kills 98% of beneficial predator insects, triggering pesticide resistance and severe secondary pest outbreaks.\n\n### The Push-Pull Agroecological Strategy:\n- **The Pull (Trap Crops)**: Border crops with higher visual and scent appeal draw pests away from primary cash crops. For example, planting Mustard around Cabbage fields draws 80% of Diamondback moths.\n- **The Push (Repellent Crops)**: Planting aromatic Lemongrass, Basil, or Desmodium between crop rows emits volatile organic compounds that confuse and repel stem borers.\n- **Root Bio-Fumigation**: African marigold (*Tagetes erecta*) roots exude alpha-terthienyl, a natural bio-compound that paralyzes parasitic root-knot nematodes in the soil profile."
+    },
+    {
+      "id": "ART-011",
+      "title": "Alkaline & Sodic Soil Reclamation: Gypsum Dosage & Leaching Dynamics",
+      "category": "Soil Revival",
+      "readTime": "7 min read",
+      "summary": "How to calculate exchangeable sodium percentage (ESP), displace toxic sodium ions with calcium, and restore water percolation to white-crusted soils.",
+      "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+      "keyTips": [
+        "Test soil pH and Electrical Conductivity (EC) — pH > 8.5 indicates Sodic/Alkali condition requiring gypsum.",
+        "Broadcast finely ground agricultural gypsum (CaSO4·2H2O) at 2–3 tonnes/acre.",
+        "Flood the field with fresh water for 72 hours, then drain the saline leaching runoff through drainage ditches."
+      ],
+      "content": "Alkali (Sodic) soils occur when exchangeable sodium ions attach to clay particles, causing clay dispersion. The soil structure collapses into an impermeable, cement-like hardpan that restricts root penetration and halts water infiltration.\n\n### The Chemistry of Gypsum Correction:\nWhen agricultural gypsum (Calcium Sulphate) is incorporated into moist sodic soil:\n$$2\\text{Na}^+\\text{-Clay} + \\text{CaSO}_4 \\rightarrow \\text{Ca}^{2+}\\text{-Clay} + \\text{Na}_2\\text{SO}_4$$\n\nThe soluble calcium ions ($Ca^{2+}$) aggressively displace the toxic sodium ions ($Na^+$) from the clay colloids. The displaced sodium bonds with sulfate to form soluble sodium sulfate ($Na_2SO_4$), which is effortlessly flushed below the root zone through deep furrow drainage ditches. \n\nFollowing gypsum treatment, sowing salt-tolerant green manure like *Dhaincha* (Sesbania) rapidly regenerates granular soil crumb porosity."
+    },
+    {
+      "id": "ART-012",
+      "title": "Farm Pond (Jal Kund) Engineering: Geometry, Lining & Spillway Design",
+      "category": "Waterbodies",
+      "readTime": "6 min read",
+      "summary": "Complete engineering guide to digging, shaping 1:1.5 side slopes, installing UV-stabilized polythene/bentonite clay liners, and securing silt-trap inlets.",
+      "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80",
+      "keyTips": [
+        "Excavate with a minimum 1.5:1 horizontal-to-vertical side slope to prevent embankment wall slumping.",
+        "Construct a 3-chamber silt trap at the inlet to drop suspended mud before clean water fills the pond.",
+        "Line with 500-micron multi-layered UV-stabilized HDPE geomembrane for sandy soils."
+      ],
+      "content": "A well-designed 1-acre farm pond can store between 15 to 25 lakh liters of rainwater, providing lifesaver irrigation for 4 to 8 acres of standing crops during critical monsoon dry spells.\n\n### Key Engineering Principles:\n1. **Catchment Location**: Choose the lowest natural depression on your parcel where contour swales naturally converge.\n2. **Side Slope Stability**: Never dig vertical pond walls. A 1:1.5 or 1:2 slope ensures stable embankments and prevents earth collapse.\n3. **Silt Trap Inflow**: Incoming muddy runoff first passes through a shallow silt basin planted with vetiver grass, shedding 90% of suspended sediment before spilling into the main reservoir.\n4. **Emergency Spillway**: Always construct a broad, grassed masonry spillway on the opposite side to safely discharge surplus overflow during extreme 100-year cloudburst events."
+    }
+  ],
+  "customers": [
+    {
+      "id": "CUST-2026-081",
+      "name": "Balasubramaniam Shanmugam",
+      "phone": "+91 98421 77340",
+      "email": "bala.shanmugam@cauveryfarms.in",
+      "category": "Smallholder Farmer",
+      "district": "Thanjavur",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "surveyNumber": "SF/342-A",
+      "landArea": 0,
+      "areaUnit": "acres",
+      "landType": "Agricultural Farmland",
+      "primaryRequirements": [
+        "Topsoil Salinity Remediation & Soil Enrichment",
+        "Sub-surface Drip Line Setup for Low Water Consumption",
+        "Desalting of ancestral irrigation farm pond",
+        "Green manure bio-inoculation with Sesbania aculeata"
+      ],
+      "soilMetrics": {
+        "ph": 0,
+        "organicCarbonPct": 0,
+        "salinityEC": 0,
+        "waterTableDepthFt": 0,
+        "primaryDeficiency": "Severe Nitrogen & Humus Deficit, High Sodium"
+      },
+      "budgetPreference": "Govt Subsidy / Zero-Interest Eco Loan",
+      "urgency": "Immediate (< 30 Days)",
+      "status": "Active In-Progress",
+      "registeredDate": "2026-08-05",
+      "assignedAgronomist": "Dr. Anita Roy (Soil Bio-Chemist)",
+      "notes": "Farm pond desilting scheduled. Gypsum spreading planned before northeast monsoon showers.",
+      "coordinates": {
+        "lat": 10.7867,
+        "lng": 79.1378
+      },
+      "aiRecommendationSummary": "Apply phosphogypsum followed by Sesbania green manuring. Construct bund contours to capture runoff."
+    },
+    {
+      "id": "CUST-2026-082",
+      "name": "Sunita Devi Yadav",
+      "phone": "+91 97188 54320",
+      "email": "sunita.yadav.kisan@gmail.com",
+      "category": "Smallholder Farmer",
+      "district": "Sitapur",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "surveyNumber": "UP-STP-889",
+      "landArea": 0,
+      "areaUnit": "acres",
+      "landType": "Agricultural Farmland",
+      "primaryRequirements": [
+        "Chemical fertilizer dependency reduction to zero",
+        "Organic carbon enrichment for crop rotation",
+        "Multi-layer bio-fencing with native species",
+        "Soil microbial consortia inoculation"
+      ],
+      "soilMetrics": {
+        "ph": 0,
+        "organicCarbonPct": 0,
+        "salinityEC": 0,
+        "waterTableDepthFt": 0,
+        "primaryDeficiency": "Depleted beneficial mycorrhizal fungi & earthworm count"
+      },
+      "budgetPreference": "Self-Funded / Subsidized",
+      "urgency": "Medium (1-3 Months)",
+      "status": "Site Inspection Scheduled",
+      "registeredDate": "2026-08-11",
+      "assignedAgronomist": "Er. Rajesh Verma (Agro-Ecologist)",
+      "notes": "Site inspection mapped. Farmer interested in zero-budget natural farming certification.",
+      "coordinates": {
+        "lat": 27.5684,
+        "lng": 80.6781
+      },
+      "aiRecommendationSummary": "Introduce Jeevamrit microbial concoctions and intercrop pulses to naturally fix atmospheric nitrogen."
+    },
+    {
+      "id": "CUST-2026-083",
+      "name": "Nagaraj Gowda",
+      "phone": "+91 94480 32190",
+      "email": "gowda.nagaraj@malnadgreen.org",
+      "category": "Commercial Agro-Forestry",
+      "district": "Chikkamagaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "surveyNumber": "CKM-PLOT-140",
+      "landArea": 0,
+      "areaUnit": "acres",
+      "landType": "Degraded Forest Border",
+      "primaryRequirements": [
+        "Sloping terrain contour trenching & erosion prevention",
+        "Planting native shade timber & fruit trees",
+        "Solar-powered wildlife deterrent bio-acoustics",
+        "Perennial spring catchment filtration weir"
+      ],
+      "soilMetrics": {
+        "ph": 0,
+        "organicCarbonPct": 0,
+        "salinityEC": 0,
+        "waterTableDepthFt": 0,
+        "primaryDeficiency": "Topsoil wash-off during heavy monsoon downpours"
+      },
+      "budgetPreference": "Private Investment / Corporate Eco Grant",
+      "urgency": "Long Term Planning",
+      "status": "Assessment Completed",
+      "registeredDate": "2026-07-28",
+      "assignedAgronomist": "Dr. Vivek Hegde (Forestry Scientist)",
+      "notes": "Terrain elevation model mapped via satellite. Contour lines marked on GPS.",
+      "coordinates": {
+        "lat": 13.3161,
+        "lng": 75.772
+      },
+      "aiRecommendationSummary": "Establish vetiver grass hedgerows on 12-degree slopes combined with multi-tier agro-forestry."
+    },
+    {
+      "id": "CUST-2026-084",
+      "name": "Gram Panchayat Eri Pathukappu Committee",
+      "phone": "+91 98402 11980",
+      "email": "maduranthakam.watercare@tn.gov.in",
+      "category": "Community Water Custodian",
+      "district": "Chengalpattu",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "surveyNumber": "WATER-BODY-77",
+      "landArea": 0,
+      "areaUnit": "acres",
+      "landType": "Lake / Wetland",
+      "primaryRequirements": [
+        "Eco-dredging of heavy silt sediment",
+        "Restoration of 4 inlet feeder surplus channels",
+        "Floating constructed vetiver wetland beds",
+        "Community tree plantation on water embankment"
+      ],
+      "soilMetrics": {
+        "ph": 0,
+        "organicCarbonPct": 0,
+        "salinityEC": 0,
+        "waterTableDepthFt": 0,
+        "primaryDeficiency": "High Turbidity, Silt accumulation"
+      },
+      "budgetPreference": "Govt Jal Jeevan / AMRUT-2 Scheme Grant",
+      "urgency": "Immediate (< 30 Days)",
+      "status": "Active In-Progress",
+      "registeredDate": "2026-08-01",
+      "assignedAgronomist": "Er. S. Kumar (Hydrology Specialist)",
+      "notes": "Phase 1 feeder channel cleared. 2,000 community volunteers participated in bund strengthening.",
+      "coordinates": {
+        "lat": 12.5938,
+        "lng": 79.8828
+      },
+      "aiRecommendationSummary": "Install 6 floating bio-filter islands to absorb nitrates and prevent eutrophication."
+    },
+    {
+      "id": "CUST-2026-085",
+      "name": "Jaswant Singh Dhillon",
+      "phone": "+91 98140 65432",
+      "email": "js.dhillon.bathinda@gmail.com",
+      "category": "Smallholder Farmer",
+      "district": "Bathinda",
+      "state": "Punjab",
+      "country": "India",
+      "surveyNumber": "PB-BTI-504",
+      "landArea": 0,
+      "areaUnit": "acres",
+      "landType": "Agricultural Farmland",
+      "primaryRequirements": [
+        "Reversal of deep tubewell groundwater depletion",
+        "Conversion from paddy monoculture to direct-seeded pulses & millets",
+        "Subterranean biochar application for water retention",
+        "Soil compaction alleviation through deep chiseling"
+      ],
+      "soilMetrics": {
+        "ph": 0,
+        "organicCarbonPct": 0,
+        "salinityEC": 0,
+        "waterTableDepthFt": 0,
+        "primaryDeficiency": "Severe sub-surface hardpan and micro-nutrient exhaustion"
+      },
+      "budgetPreference": "Self-Funded + Direct Crop Diversification Subsidy",
+      "urgency": "Medium (1-3 Months)",
+      "status": "Site Inspection Scheduled",
+      "registeredDate": "2026-08-14",
+      "assignedAgronomist": "Dr. Anita Roy (Soil Bio-Chemist)",
+      "notes": "Soil compaction test reveals hardpan at 1.2ft depth. Subsoiling plow scheduled for autumn window.",
+      "coordinates": {
+        "lat": 30.211,
+        "lng": 74.9455
+      },
+      "aiRecommendationSummary": "Perform non-inversion deep ripping followed by biochar application to triple topsoil water holding capacity."
+    },
+    {
+      "id": "CUST-2026-086",
+      "name": "Bhawani Singh Rathore",
+      "phone": "+91 94140 88210",
+      "email": "rathore.marwar.agro@gmail.com",
+      "category": "Salt-Affected Landholder",
+      "district": "Nagaur",
+      "state": "Rajasthan",
+      "country": "India",
+      "surveyNumber": "RJ-NGR-912",
+      "landArea": 0,
+      "areaUnit": "acres",
+      "landType": "Barren / Fallow Land",
+      "primaryRequirements": [
+        "White alkali salt crust degradation reversal",
+        "Deep taproot halophyte planting (Salvadora persica & Atriplex)",
+        "Subterranean rainwater percolation well construction",
+        "Bio-mulching with Prosopis cineraria biomass"
+      ],
+      "soilMetrics": {
+        "ph": 0,
+        "organicCarbonPct": 0,
+        "salinityEC": 0,
+        "waterTableDepthFt": 0,
+        "primaryDeficiency": "Extreme salinity, electrical conductivity toxicity"
+      },
+      "budgetPreference": "Arid Land Restoration Grant + Farmer Contribution",
+      "urgency": "Immediate (< 30 Days)",
+      "status": "Active In-Progress",
+      "registeredDate": "2026-08-08",
+      "assignedAgronomist": "Dr. Vivek Hegde (Forestry Scientist)",
+      "notes": "Initial percolation pit dug. 300 Salvadora saplings in greenhouse ready for field transplant.",
+      "coordinates": {
+        "lat": 27.1983,
+        "lng": 73.7493
+      },
+      "aiRecommendationSummary": "Leach surface salts using heavy monsoon bunding and establish halophytic agro-forestry corridors."
+    }
+  ],
+  "complaints": [
+    {
+      "id": "POL-2026-081",
+      "createdAt": "2026-08-20T10:30:00Z",
+      "domain": "Water Pollution",
+      "specificCause": "Untreated Industrial Chemical Effluent Discharge",
+      "title": "Textile Dye Discharge into Noyyal River Tributary & Irrigation Canal",
+      "description": "High volume toxic dark red effluent released during night hours from nearby fabric processing units. The water has strong pungent sulfur odor, foam formation, and local well water has turned turbid.",
+      "location": "Near Arulpuram Bridge, Tirupur District",
+      "district": "Tirupur",
+      "state": "Tamil Nadu",
+      "surveyNumberOrLandmark": "SF/342 near Noyyal Check Dam",
+      "affectedAreaOrVolume": "4.2 km Canal Stretch & 6 Farm Wells",
+      "severity": "Critical (Immediate Hazard)",
+      "status": "Legal Notice Issued & Containment Active",
+      "evidencePhotoUrl": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?auto=format&fit=crop&w=800&q=80",
+      "complainantName": "K. Senthil Kumar (Panchayat Representative)",
+      "complainantPhone": "+91 98422 11980",
+      "isAnonymous": false,
+      "affectedResources": [
+        "Drinking Water Well",
+        "Paddy Crops",
+        "Groundwater Aquifer",
+        "Cattle Water Trough"
+      ],
+      "assignedOfficer": "Er. V. Murugesan (TNPCB Environmental Engineer)",
+      "assignedOfficerContact": "+91 94433 87210",
+      "adminRemarks": "Field water samples collected (TDS: 4200 mg/l, COD: 680 mg/l). Closure notice served to offending textile bleaching unit. Emergency charcoal barrier activated.",
+      "smsAlertsEnabled": true,
+      "whatsappAlertsEnabled": true,
+      "milestones": [
+        {
+          "id": "EVT-081-1",
+          "stage": "Reported & Logged",
+          "timestamp": "2026-08-20T10:30:00Z",
+          "headline": "Pollution Grievance Registered",
+          "details": "Citizen grievance logged with GPS verification. High toxicity flag triggered by Eden Sync AI engine.",
+          "channelsNotified": [
+            "SMS",
+            "WhatsApp"
+          ],
+          "simulatedNotificationText": "[EDEN-SYNC] Grievance POL-2026-081 registered. Location: Arulpuram Bridge. Priority: Critical. Track status: https://edensync.org/track/POL-2026-081"
+        },
+        {
+          "id": "EVT-081-2",
+          "stage": "Inspection Officer Dispatched",
+          "timestamp": "2026-08-20T14:15:00Z",
+          "headline": "Field Engineer Er. V. Murugesan Dispatched",
+          "details": "TNPCB flying squad reached site SF/342. Night effluent discharge confirmed and physical evidence geotagged.",
+          "officerName": "Er. V. Murugesan",
+          "channelsNotified": [
+            "SMS",
+            "WhatsApp"
+          ],
+          "simulatedNotificationText": "[EDEN-SYNC UPDATE] Officer Er. V. Murugesan (+91 94433 87210) dispatched to site for POL-2026-081."
+        },
+        {
+          "id": "EVT-081-3",
+          "stage": "Water/Soil Samples in Lab Analysis",
+          "timestamp": "2026-08-21T11:00:00Z",
+          "headline": "Spectrometry & COD Lab Testing Completed",
+          "details": "Laboratory findings confirmed synthetic Azo dyes, extreme COD of 680 mg/L (normal < 50 mg/L), and elevated sulfate ions.",
+          "sampleTestResults": {
+            "ph": 9.4,
+            "tdsPpm": 4200,
+            "dissolvedOxygen": "0.9 mg/L (Critical Hypoxia)",
+            "heavyMetalsPresent": true,
+            "toxicChemicalIdentified": "Azo Reactive Red 195 & Sodium Hydrosulfite"
+          },
+          "channelsNotified": [
+            "WhatsApp"
+          ],
+          "simulatedNotificationText": "[EDEN-SYNC LAB ALERT] Water test for POL-2026-081 confirmed pH: 9.4, COD: 680 mg/L. Legal enforcement escalated."
+        },
+        {
+          "id": "EVT-081-4",
+          "stage": "Legal Notice Issued & Containment Active",
+          "timestamp": "2026-08-22T16:30:00Z",
+          "headline": "Formal Closure Order & Emergency Charcoal Barrier Activated",
+          "details": "Section 33A Water Act closure notice served to processing mill. Activated carbon booms deployed across canal weir.",
+          "noticeReferenceNo": "TNPCB/TPR/W/2026/0942-A",
+          "actionTaken": "Electricity supply disconnected by EB authorities. 2 tons of floating bio-char filters installed.",
+          "channelsNotified": [
+            "SMS",
+            "WhatsApp"
+          ],
+          "simulatedNotificationText": "[EDEN-SYNC ACTION] Closure notice issued under Water Act (TNPCB/TPR/W/2026/0942-A). Containment booms deployed."
+        }
+      ],
+      "aiAssessment": {
+        "riskScore": 92,
+        "containmentPriority": "Immediate (< 24h)",
+        "immediateSafetyMeasures": [
+          "Halt all pumping from borewells within a 500m radius immediately.",
+          "Warn local shepherds to prevent livestock drinking from canal banks.",
+          "Deploy temporary sandbag & activated carbon bunds to prevent downstream spread."
+        ],
+        "recommendedBioRemediation": [
+          "Deploy floating vetiver wetland islands (Phytoremediation) to absorb synthetic dye ions.",
+          "Apply enzyme-based microbial consortia to digest organic azo dyes and lower COD.",
+          "Incorporate zeolite-bentonite clay barriers along affected soil banks."
+        ],
+        "responsibleAuthorities": [
+          "State Pollution Control Board (TNPCB)",
+          "Public Works Department (Water Resources)",
+          "District Collectorate Environmental Wing"
+        ],
+        "estimatedEcologicalRecoveryWeeks": 12,
+        "environmentalHazardSummary": "High chemical toxicity detected. Immediate cessation of effluent inflow required to prevent heavy metal migration into deeper aquifers."
+      },
+      "coordinates": {
+        "lat": 11.1085,
+        "lng": 77.3411
+      }
+    },
+    {
+      "id": "POL-2026-082",
+      "createdAt": "2026-08-21T14:15:00Z",
+      "domain": "Land Pollution",
+      "specificCause": "Chemical & Hazardous Waste Dumping",
+      "title": "Illegal Chemical Sludge & Spent Acid Dumping on Fallow Farmland",
+      "description": "Unknown tankers dumped over 20 metric tons of hazardous semi-solid industrial chemical waste and spent acid sludge onto prime agricultural boundary soil during midnight.",
+      "location": "Vadodara Rural Outskirts, Padra Highway",
+      "district": "Vadodara",
+      "state": "Gujarat",
+      "surveyNumberOrLandmark": "SF/189/2B, Padra-Jambusar Road",
+      "affectedAreaOrVolume": "2.5 Acres Topsoil Contaminated",
+      "severity": "Critical (Immediate Hazard)",
+      "status": "Inspection Officer Dispatched",
+      "evidencePhotoUrl": "https://images.unsplash.com/photo-1530587191325-3db32d826c18?auto=format&fit=crop&w=800&q=80",
+      "complainantName": "Mansukhbhai Patel",
+      "complainantPhone": "+91 97230 45610",
+      "isAnonymous": false,
+      "affectedResources": [
+        "Cattle Grazing Land",
+        "Topsoil Microbes",
+        "Adjoining Cotton Crop"
+      ],
+      "assignedOfficer": "Dr. Rajesh Solanki (GPCB Hazardous Waste Inspector)",
+      "assignedOfficerContact": "+91 98251 34900",
+      "adminRemarks": "Inspection team dispatched with soil core augers. Local police complaint filed to trace CCTV footage of midnight tanker movement.",
+      "smsAlertsEnabled": true,
+      "whatsappAlertsEnabled": true,
+      "milestones": [
+        {
+          "id": "EVT-082-1",
+          "stage": "Reported & Logged",
+          "timestamp": "2026-08-21T14:15:00Z",
+          "headline": "Hazardous Waste Incident Logged",
+          "details": "Farmer reported 20 tons of toxic spent acid sludge dumped on survey plot 189/2B.",
+          "channelsNotified": [
+            "SMS",
+            "WhatsApp"
+          ],
+          "simulatedNotificationText": "[EDEN-SYNC] Grievance POL-2026-082 registered. Vadodara GPCB wing notified."
+        },
+        {
+          "id": "EVT-082-2",
+          "stage": "Inspection Officer Dispatched",
+          "timestamp": "2026-08-22T08:30:00Z",
+          "headline": "Hazardous Waste Team Mobilized",
+          "details": "Dr. Rajesh Solanki reached site with mobile soil testing kit. Zone cordoned off with high-visibility markers.",
+          "officerName": "Dr. Rajesh Solanki",
+          "channelsNotified": [
+            "SMS",
+            "WhatsApp"
+          ],
+          "simulatedNotificationText": "[EDEN-SYNC UPDATE] Dr. Rajesh Solanki dispatched to survey plot 189/2B for POL-2026-082. Sampling underway."
+        }
+      ],
+      "aiAssessment": {
+        "riskScore": 89,
+        "containmentPriority": "Immediate (< 24h)",
+        "immediateSafetyMeasures": [
+          "Cordon off the 2.5-acre dumping zone with warning tapes to prevent human/animal entry.",
+          "Excavate and safely barrel the top 15cm concentrated sludge layer before rain.",
+          "Do not cultivate or till the soil to avoid driving toxins deeper into the root zone."
+        ],
+        "recommendedBioRemediation": [
+          "Apply agricultural lime (calcium carbonate) to neutralize extreme acidity (pH < 4.0).",
+          "Add high-carbon biochar (20 tons/ha) to immobilize heavy metal ions (Chromium, Lead).",
+          "Plant hyper-accumulator sunflowers and Sesbania aculeata for biological extraction."
+        ],
+        "responsibleAuthorities": [
+          "Gujarat Pollution Control Board (GPCB)",
+          "District Magistrate Office",
+          "Agricultural Soil Health Bureau"
+        ],
+        "estimatedEcologicalRecoveryWeeks": 18,
+        "environmentalHazardSummary": "Severe acidic soil burn and heavy metal toxicity. Rapid mechanical removal followed by biochar immobilization is mandatory."
+      },
+      "coordinates": {
+        "lat": 22.2412,
+        "lng": 73.0825
+      }
+    },
+    {
+      "id": "POL-2026-083",
+      "createdAt": "2026-08-22T09:00:00Z",
+      "domain": "Water Pollution",
+      "specificCause": "Raw Sewage & Urban Drainage Inflow",
+      "title": "Bellandur Lake Feeder Channel Raw Sewage Overflow & Toxic Foam",
+      "description": "Untreated domestic blackwater and detergent sewage overflowing into lake inlet. Thick toxic chemical foam is flying onto surrounding agricultural nurseries and road users.",
+      "location": "Varthur-Kodi Lake Inflow Channel, Bengaluru East",
+      "district": "Bengaluru Urban",
+      "state": "Karnataka",
+      "surveyNumberOrLandmark": "Survey 22/1 near Kodi Sluice Gate",
+      "affectedAreaOrVolume": "15 MLD Raw Sewage Discharge",
+      "severity": "High (Active Damage)",
+      "status": "Water/Soil Samples in Lab Analysis",
+      "evidencePhotoUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=800&q=80",
+      "complainantName": "Citizen Water Watchers Network",
+      "complainantPhone": "+91 99801 88432",
+      "isAnonymous": true,
+      "affectedResources": [
+        "Lake Ecosystem",
+        "Aquatic Flora/Fauna",
+        "Surrounding Borewells"
+      ],
+      "assignedOfficer": "Er. Sandeep Rao (KSPCB Lake Health Division)",
+      "assignedOfficerContact": "+91 98450 67120",
+      "adminRemarks": "Water testing under process. Ammonia: 24 ppm, Dissolved Oxygen: 0.8 ppm. Micro-aerators dispatched for temporary oxygenation.",
+      "smsAlertsEnabled": false,
+      "whatsappAlertsEnabled": true,
+      "milestones": [
+        {
+          "id": "EVT-083-1",
+          "stage": "Reported & Logged",
+          "timestamp": "2026-08-22T09:00:00Z",
+          "headline": "Lake Inflow Sewage Influx Reported",
+          "details": "Citizen network reported toxic foam and untreated blackwater surge at Kodi inlet.",
+          "channelsNotified": [
+            "WhatsApp"
+          ],
+          "simulatedNotificationText": "[EDEN-SYNC] Grievance POL-2026-083 logged for Bellandur/Varthur feeder channel."
+        },
+        {
+          "id": "EVT-083-2",
+          "stage": "Inspection Officer Dispatched",
+          "timestamp": "2026-08-22T13:00:00Z",
+          "headline": "Lake Health Division In-Charge On-Site",
+          "details": "Er. Sandeep Rao examined inlet sluice. Temporary coir boom placed to trap airborne foam.",
+          "officerName": "Er. Sandeep Rao",
+          "channelsNotified": [
+            "WhatsApp"
+          ],
+          "simulatedNotificationText": "[EDEN-SYNC UPDATE] Officer Sandeep Rao deployed on-site for POL-2026-083. Boom barriers erected."
+        },
+        {
+          "id": "EVT-083-3",
+          "stage": "Water/Soil Samples in Lab Analysis",
+          "timestamp": "2026-08-23T10:30:00Z",
+          "headline": "Lab Analysis: High Phosphate & Dissolved Oxygen Deficit",
+          "details": "Testing revealed ammonia at 24 ppm, surfactant phosphates at 12 ppm, and Dissolved Oxygen at 0.8 ppm.",
+          "sampleTestResults": {
+            "ph": 8.1,
+            "tdsPpm": 1450,
+            "dissolvedOxygen": "0.8 mg/L (Critical)",
+            "heavyMetalsPresent": false,
+            "toxicChemicalIdentified": "Linear Alkylbenzene Sulfonate (Surfactants)"
+          },
+          "channelsNotified": [
+            "WhatsApp"
+          ],
+          "simulatedNotificationText": "[EDEN-SYNC LAB REPORT] Dissolved oxygen at 0.8 ppm. Micro-aerator fountains ordered for POL-2026-083."
+        }
+      ],
+      "aiAssessment": {
+        "riskScore": 84,
+        "containmentPriority": "Urgent (1-3 Days)",
+        "immediateSafetyMeasures": [
+          "Install coir mesh boom barriers across inlet channels to trap flying foam.",
+          "Spray bio-surfactant neutralizers at channel weir edges.",
+          "Divert raw untreated discharge into constructed modular reed bed filters."
+        ],
+        "recommendedBioRemediation": [
+          "Deploy deep-water aeration fountains to boost Dissolved Oxygen above 4.5 mg/l.",
+          "Introduce Lemna minor (duckweed) and Chrysopogon zizanioides for nutrient stripping.",
+          "Dose multi-strain probiotic microbes (Nitrosomonas / Nitrobacter) to break down ammonia."
+        ],
+        "responsibleAuthorities": [
+          "Karnataka State Pollution Control Board (KSPCB)",
+          "BWSSB",
+          "Lake Development Authority"
+        ],
+        "estimatedEcologicalRecoveryWeeks": 16,
+        "environmentalHazardSummary": "Severe eutrophication and anaerobic decomposition with zero dissolved oxygen. Immediate aerator deployment is critical."
+      },
+      "coordinates": {
+        "lat": 12.9382,
+        "lng": 77.7289
+      }
+    },
+    {
+      "id": "POL-2026-084",
+      "createdAt": "2026-08-23T11:45:00Z",
+      "domain": "Land Pollution",
+      "specificCause": "Illegal Plastic & Municipal Solid Waste Dumping",
+      "title": "Plastic Waste Burning & Leachate Seepage along River Bank Farmland",
+      "description": "Unsegregated municipal plastic and garbage dumped along the river buffer zone. Regular open burning generates hazardous dioxins, and unlined leachate is seeping into adjacent groundnut farms.",
+      "location": "Periyar River Riparian Buffer, Aluva Rural",
+      "district": "Ernakulam",
+      "state": "Kerala",
+      "surveyNumberOrLandmark": "Riverbank plot opposite Desom Ferry",
+      "affectedAreaOrVolume": "1.8 Acres Riparian Land",
+      "severity": "Moderate",
+      "status": "Reported & Logged",
+      "evidencePhotoUrl": "https://images.unsplash.com/photo-1528323273322-d81458248d40?auto=format&fit=crop&w=800&q=80",
+      "complainantName": "Mathew Abraham",
+      "complainantPhone": "+91 94470 23119",
+      "isAnonymous": false,
+      "affectedResources": [
+        "Riparian Buffer Soil",
+        "River Periyar Water Quality",
+        "Air Quality"
+      ],
+      "assignedOfficer": "Awaiting Field Allocation",
+      "adminRemarks": "Grievance received. Inspection notice forwarded to local Grama Panchayat health inspector.",
+      "smsAlertsEnabled": true,
+      "whatsappAlertsEnabled": true,
+      "milestones": [
+        {
+          "id": "EVT-084-1",
+          "stage": "Reported & Logged",
+          "timestamp": "2026-08-23T11:45:00Z",
+          "headline": "Riverbank Dumping Grievance Registered",
+          "details": "Grievance recorded with photographic evidence of plastic combustion and leachate runoff.",
+          "channelsNotified": [
+            "SMS",
+            "WhatsApp"
+          ],
+          "simulatedNotificationText": "[EDEN-SYNC] Grievance POL-2026-084 registered for Periyar riparian buffer. Tracking link sent."
+        }
+      ],
+      "aiAssessment": {
+        "riskScore": 71,
+        "containmentPriority": "Standard (1 Week)",
+        "immediateSafetyMeasures": [
+          "Extinguish smoldering plastic piles using soil smothering (avoid toxic water runoff).",
+          "Install CCTV deterrent signage and earthen trench barriers to halt night tipping.",
+          "Collect leachate in temporary clay-lined sumps."
+        ],
+        "recommendedBioRemediation": [
+          "Clear all non-biodegradable macro-plastics and transport to authorized recycling.",
+          "Inoculate soil with lignin-degrading white-rot fungi (Phanerochaete chrysosporium).",
+          "Plant dense bamboo & vetiver riparian vegetative buffer strips along the bank."
+        ],
+        "responsibleAuthorities": [
+          "Kerala State Pollution Control Board",
+          "Grama Panchayat Sanitation Committee",
+          "River Protection Council"
+        ],
+        "estimatedEcologicalRecoveryWeeks": 8,
+        "environmentalHazardSummary": "Plastic micro-particle contamination and localized soil combustion damage. Requires physical cleanup followed by mycological soil inoculation."
+      },
+      "coordinates": {
+        "lat": 10.1076,
+        "lng": 76.3516
+      }
+    }
+  ],
+  "farmerIdeas": [
+    {
+      "id": "TIP-2026-001",
+      "title": "Sour Buttermilk (Chhach) & Asafoetida (Hing) Spray for Powdery Mildew & Aphids",
+      "category": "Organic Pest & Disease Control",
+      "summary": "A time-tested zero-cost fermented buttermilk spray containing natural lactic acid bacteria that cures white powdery mildew, fungal spots, and repels sucking pests like aphids and thrips on vegetables and cotton.",
+      "farmerName": "Balwinder Singh",
+      "village": "Kotkapura",
+      "district": "Faridkot",
+      "state": "Punjab",
+      "phone": "+91 98142 55670",
+      "isVerifiedFarmer": true,
+      "experienceYears": 22,
+      "costToImplement": "Zero Cost (Farm Waste)",
+      "estimatedSavings": "Saves ₹2,500 to ₹3,800/acre per season in synthetic fungicides",
+      "timeToSeeResults": "48 to 72 Hours",
+      "difficulty": "Easy (Any Farmer)",
+      "suitableCrops": [
+        "Tomatoes",
+        "Chilli",
+        "Cotton",
+        "Cucurbits",
+        "Mustard",
+        "Grapes",
+        "Paddy"
+      ],
+      "materialsNeeded": [
+        "5 Liters of Sour Buttermilk (Fermented for 5 to 7 days in shade)",
+        "50 grams pure Asafoetida (Hing) powder or dissolved crystals",
+        "1 piece of rusted copper wire or copper plate (optional for extra copper fungicide effect)",
+        "100 Liters clean water for knapsack dilution"
+      ],
+      "stepByStepGuide": [
+        "Take 5 Liters of fresh raw cow or buffalo buttermilk and store it in an earthen clay pot in shade for 5-7 days until it develops a pungent sour odor and greenish tint.",
+        "Place a piece of clean copper wire inside the buttermilk for 48 hours to release micro-copper ions (acts like organic Bordeaux mixture).",
+        "Dissolve 50g of Hing (Asafoetida) in 1 liter warm water and mix vigorously into the sour buttermilk.",
+        "Filter thoroughly through a cotton muslin cloth to prevent nozzle clogging in spray pumps.",
+        "Dilute 500 ml of this concentrated mixture into 15 Liters of water (1 knapsack pump) and spray during morning or late afternoon hours over both top and underside of leaves."
+      ],
+      "scientificReason": "Lactic acid (Lactobacillus) produces bactericidal and antifungal metabolites (bacteriocins) that suppress powdery mildew spore germination, while the volatile sulphur compounds in Hing disrupt the respiratory sensors of sucking pests.",
+      "cautionsOrDoNotDo": [
+        "Do not spray during peak midday direct sunlight (>35°C) to avoid leaf scorch.",
+        "Always filter well through fine cloth to prevent pump nozzle jamming."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1592417817098-8f3d6eb228cc?auto=format&fit=crop&w=800&q=80",
+      "likesCount": 142,
+      "triedCount": 89,
+      "successRatePercentage": 96,
+      "createdAt": "2026-08-10",
+      "comments": [
+        {
+          "id": "FB-01",
+          "farmerName": "Deepak Kumar",
+          "farmerLocation": "Coimbatore, Tamil Nadu",
+          "comment": "Used this on my chilli crop when leaf curl and powdery mildew started. Within 3 days the fungus dried up and new fresh green leaves emerged. Complete zero cost!",
+          "rating": 5,
+          "triedOnFarm": true,
+          "date": "2026-08-14"
+        },
+        {
+          "id": "FB-02",
+          "farmerName": "Dhananjay Patil",
+          "farmerLocation": "Kolhapur, Maharashtra",
+          "comment": "Adding the copper wire makes a massive difference. Excellent alternative to chemical mancozeb.",
+          "rating": 5,
+          "triedOnFarm": true,
+          "date": "2026-08-18"
+        }
+      ]
+    },
+    {
+      "id": "TIP-2026-002",
+      "title": "Sub-Surface Clay Pot (Olla) Irrigation for 70% Water Savings in Dry Spells",
+      "category": "Water Conservation & Low-Cost Drip",
+      "summary": "Bury unglazed porous clay pots between crop rows or near fruit trees and fill them with water. Soil moisture tension pulls water outward directly to root zones with zero surface evaporation.",
+      "farmerName": "Suresh Chandra Sharma",
+      "village": "Neemrana",
+      "district": "Alwar",
+      "state": "Rajasthan",
+      "phone": "+91 94140 88219",
+      "isVerifiedFarmer": true,
+      "experienceYears": 18,
+      "costToImplement": "Low Cost (< ₹500)",
+      "estimatedSavings": "Reduces water consumption by 65-75% and saves pumping electricity",
+      "timeToSeeResults": "Instant water conservation & continuous root hydration",
+      "difficulty": "Easy (Any Farmer)",
+      "suitableCrops": [
+        "Fruit Orchards (Pomegranate, Guava, Lemon)",
+        "Vegetable Beds (Brinjal, Gourds)",
+        "Kitchen Gardens"
+      ],
+      "materialsNeeded": [
+        "Unglazed porous earthenware clay pots (Matka / Olla) of 5 to 10 Liters capacity",
+        "Clay lids or inverted terracotta saucers to cover pot tops",
+        "Coarse gravel or coconut coir mulch for pot base",
+        "Small spade or post-hole auger"
+      ],
+      "stepByStepGuide": [
+        "Dig a hole in the ground between 4 crop plants or 1.5 feet away from fruit tree drip-lines, deep enough so only the pot neck sits 2 inches above ground level.",
+        "Place a 1-inch layer of coarse sand at the bottom of the hole for stability.",
+        "Place the unglazed terracotta clay pot inside and backfill with soil, packing gently around the pot walls.",
+        "Fill the pot completely with clean water and cover the mouth securely with the terracotta lid to prevent mosquito breeding and evaporation.",
+        "Refill the pot only once every 5 to 8 days. Water seeps out through the porous clay matrix purely driven by soil suction as roots absorb moisture."
+      ],
+      "scientificReason": "Soil moisture tension gradient regulates water flow through porous earthenware. When soil is dry, capillary suction pulls moisture through the porous clay walls; when soil is saturated, seepage halts automatically, preventing water wastage and root rot.",
+      "cautionsOrDoNotDo": [
+        "Do not use glazed, painted, or cement-coated pots because they will block porous micropores.",
+        "Always keep the lid covered to prevent dirt and mosquito larvae from infesting the water."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?auto=format&fit=crop&w=800&q=80",
+      "likesCount": 198,
+      "triedCount": 114,
+      "successRatePercentage": 98,
+      "createdAt": "2026-08-04",
+      "comments": [
+        {
+          "id": "FB-03",
+          "farmerName": "Muruganandham S.",
+          "farmerLocation": "Erode, Tamil Nadu",
+          "comment": "During peak May heatwave with borewell running dry, this saved all 60 of my young guava saplings. I only refill the matkas once a week!",
+          "rating": 5,
+          "triedOnFarm": true,
+          "date": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "id": "TIP-2026-003",
+      "title": "Castor Cake & Neem Oil Barrier Ring to Repel Wild Boar & Termites",
+      "category": "Organic Pest & Disease Control",
+      "summary": "A perimeter boundary repellent made of fermented castor cake (Arandi Khali), raw cow urine, and pungent neem oil that creates an olfactory barrier keeping wild boars, blue bulls (Nilgai), and termites away from field borders.",
+      "farmerName": "Venkat Reddy",
+      "village": "Narsapur",
+      "district": "Medak",
+      "state": "Telangana",
+      "phone": "+91 98480 33120",
+      "isVerifiedFarmer": true,
+      "experienceYears": 26,
+      "costToImplement": "Low Cost (< ₹500)",
+      "estimatedSavings": "Prevents 20-30% boundary crop destruction by wild animals and termites",
+      "timeToSeeResults": "24 Hours after perimeter application",
+      "difficulty": "Moderate",
+      "suitableCrops": [
+        "Groundnut",
+        "Maize",
+        "Sugarcane",
+        "Tuber crops (Potato, Yam)",
+        "Pulses"
+      ],
+      "materialsNeeded": [
+        "10 kg Castor Oil Cake (Arandi / Aamudamu Khali)",
+        "15 Liters fresh Desi Cow Urine (Gomutra)",
+        "500 ml cold-pressed Neem Oil with 50g washing soap as emulsifier",
+        "Jute rope / coir ropes (for boundary line soaking)"
+      ],
+      "stepByStepGuide": [
+        "In a plastic drum, mix 10 kg of Castor cake with 15 Liters of cow urine and 10 Liters water. Let it ferment in sun for 4 days until it releases a strong distinctive pungent aroma.",
+        "Dip thick coir or jute rope in this slurry and string it along the outer perimeter posts at 1.5 feet and 3 feet height.",
+        "Alternatively, broadcast the fermented castor cake paste along a 1-meter wide trench around the entire field boundary.",
+        "Spray the neem oil emulsion over the boundary vegetation once every 12 to 15 days, especially around new moon and full moon nights when wild boar movements peak."
+      ],
+      "scientificReason": "Castor cake contains ricin and volatile secondary sulfur compounds that wild herbivores and omnivores inherently associate with toxicity and danger. The pungent ammonia odor of fermented cow urine triggers natural avoidance behavior.",
+      "cautionsOrDoNotDo": [
+        "Do not feed castor cake to cattle or sheep as it contains toxic ricin proteins.",
+        "Wear gloves while mixing the fermented slurry to avoid skin irritation."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=800&q=80",
+      "likesCount": 165,
+      "triedCount": 76,
+      "successRatePercentage": 94,
+      "createdAt": "2026-08-08",
+      "comments": [
+        {
+          "id": "FB-04",
+          "farmerName": "Kailash Meena",
+          "farmerLocation": "Sawai Madhopur, Rajasthan",
+          "comment": "Wild boars were destroying our groundnut field every single night. Since we put this castor rope boundary, they have not stepped foot inside for 3 weeks.",
+          "rating": 5,
+          "triedOnFarm": true,
+          "date": "2026-08-16"
+        }
+      ]
+    },
+    {
+      "id": "TIP-2026-004",
+      "title": "Recycled Plastic Bottle Yellow & Blue Sticky Traps for Whiteflies & Thrips",
+      "category": "Farm Tools & DIY Jugaad",
+      "summary": "Convert discarded yellow mustard oil containers and blue water bottles into reusable sticky insect traps using castor oil or grease for zero-chemical pest control.",
+      "farmerName": "Anil Kumar Deshmukh",
+      "village": "Warud",
+      "district": "Amravati",
+      "state": "Maharashtra",
+      "phone": "+91 97654 22091",
+      "isVerifiedFarmer": true,
+      "experienceYears": 15,
+      "costToImplement": "Zero Cost (Farm Waste)",
+      "estimatedSavings": "Saves ₹1,800/acre in pesticide sprays; cuts pest population by 60%",
+      "timeToSeeResults": "Pests start sticking within 2 hours",
+      "difficulty": "Easy (Any Farmer)",
+      "suitableCrops": [
+        "Cotton",
+        "Chilli",
+        "Tomato",
+        "Okra (Bhindi)",
+        "Capsicum",
+        "Brinjal"
+      ],
+      "materialsNeeded": [
+        "Used yellow plastic oil containers (5L) or yellow plastic sheets",
+        "Used blue plastic bottles (for Thrips attraction)",
+        "100 ml Castor Oil or transparent automobile grease",
+        "Bamboo sticks (4 feet height) and tying wire/twine"
+      ],
+      "stepByStepGuide": [
+        "Clean discarded bright yellow and blue plastic containers with water and let them dry.",
+        "Punch 2 small holes at the top neck of each container and thread tying wire through them.",
+        "Mount the containers onto bamboo stakes so the trap sits roughly 6 to 12 inches above the top canopy level of the crop.",
+        "Using a paintbrush or cloth, apply a thin, even coat of castor oil or transparent sticky grease over the entire outer surface.",
+        "Install 15-20 traps per acre (12 Yellow for Whitefly/Aphids/Leafminers + 6 Blue for Thrips).",
+        "Every 10 to 14 days, scrape off trapped dead insects with a plastic card, wash with warm water, and re-apply a fresh layer of castor oil."
+      ],
+      "scientificReason": "Sucking insect pests exhibit phototactic attraction to specific visual wavelengths (yellow ~580nm triggers feeding attraction in whiteflies & aphids; blue ~470nm triggers flight attraction in thrips). Sticky viscous castor oil traps them irreversibly upon landing.",
+      "cautionsOrDoNotDo": [
+        "Do not place traps too low beneath crop canopy where leaves touch the sticky surface.",
+        "Avoid dark black or engine burnt oil as the dark color deters the pests."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1589923188900-85dae523342b?auto=format&fit=crop&w=800&q=80",
+      "likesCount": 230,
+      "triedCount": 156,
+      "successRatePercentage": 99,
+      "createdAt": "2026-08-01",
+      "comments": [
+        {
+          "id": "FB-05",
+          "farmerName": "Gurpreet Singh",
+          "farmerLocation": "Moga, Punjab",
+          "comment": "Market sticky traps cost ₹40 each. I made 30 traps from discarded mustard oil cans for zero rupees. Cleaned out the whitefly attack on my cotton completely!",
+          "rating": 5,
+          "triedOnFarm": true,
+          "date": "2026-08-05"
+        }
+      ]
+    },
+    {
+      "id": "TIP-2026-005",
+      "title": "72-Hour Rapid Compost Bio-Starter using Jaggery, Gram Flour & Forest Soil",
+      "category": "Soil Health & Bio-Fertilizers",
+      "summary": "A hyper-concentrated microbial inoculant (Jeevamrut booster) that accelerates raw agricultural residue decomposition from 90 days down to 25-30 days without offensive odor.",
+      "farmerName": "Subbanna Hegde",
+      "village": "Sirsi",
+      "district": "Uttara Kannada",
+      "state": "Karnataka",
+      "phone": "+91 94801 77652",
+      "isVerifiedFarmer": true,
+      "experienceYears": 30,
+      "costToImplement": "Low Cost (< ₹500)",
+      "estimatedSavings": "Produces 3 tons of rich organic humus fertilizer worth ₹12,000",
+      "timeToSeeResults": "Heap heats up to 55°C within 72 hours; compost ready in 3 weeks",
+      "difficulty": "Easy (Any Farmer)",
+      "suitableCrops": [
+        "All Agricultural & Horticultural crops",
+        "Paddy straw decomposition",
+        "Sugarcane trash"
+      ],
+      "materialsNeeded": [
+        "10 kg Fresh Cow Dung + 5 Liters Cow Urine",
+        "1 kg Black Jaggery (Gur) - unrefined",
+        "1 kg Gram Flour (Besan) or pulse flour",
+        "Handful of undisturbed virgin soil from beneath a Banyan or Peepal tree",
+        "200 Liters water in a plastic drum"
+      ],
+      "stepByStepGuide": [
+        "In a 200L plastic drum, add 10 kg cow dung and 5 Liters cow urine, and mix thoroughly with a wooden pole in clockwise direction.",
+        "Dissolve 1 kg jaggery and 1 kg besan in 5 Liters warm water and add to the drum.",
+        "Add a handful (approx. 200g) of rich topsoil collected from under an old banyan/neem tree to introduce native mycorrhizae and beneficial actinomycetes.",
+        "Fill the drum with clean water, stir well clockwise for 5 minutes, cover with a damp gunny bag, and keep in shade for 72 hours. Stir twice daily (morning & evening).",
+        "Sprinkle this fermented microbial culture liberally over dry crop residue (paddy straw, maize stalks) layer by layer while building compost heaps or spray directly on post-harvest stubble before light discing."
+      ],
+      "scientificReason": "Virgin banyan root soil provides a diverse consortium of cellulolytic, lignolytic fungi and nitrogen-fixing bacteria. Jaggery acts as a quick-release carbohydrate fuel while besan supplies amino acids, multiplying colony-forming units (CFUs) to over 10^9 per ml.",
+      "cautionsOrDoNotDo": [
+        "Never use chlorinated tap water as chlorine kills the living microbes. Use well or rainwater.",
+        "Do not keep drum in direct sunlight; keep strictly under tree or roof shade."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&w=800&q=80",
+      "likesCount": 285,
+      "triedCount": 180,
+      "successRatePercentage": 97,
+      "createdAt": "2026-07-28",
+      "comments": [
+        {
+          "id": "FB-06",
+          "farmerName": "Chhaganlal Meena",
+          "farmerLocation": "Kota, Rajasthan",
+          "comment": "Sprayed this on my leftover mustard stalks and ploughed them in. Within 22 days all residue converted into black soft crumbly soil. Best soil builder!",
+          "rating": 5,
+          "triedOnFarm": true,
+          "date": "2026-08-02"
+        }
+      ]
+    },
+    {
+      "id": "TIP-2026-006",
+      "title": "Banana Pseudostem Sap as a 100% Organic Seed Germination & Rooting Hormone",
+      "category": "Seed Treatment & Storage",
+      "summary": "Extract nutrient-rich liquid sap from harvested banana tree trunks to soak seeds before sowing. High potassium, gibberellins, and cytokinin content increases germination speed by 40% and builds early vigor.",
+      "farmerName": "Prabhu Shankar",
+      "village": "Pollachi",
+      "district": "Coimbatore",
+      "state": "Tamil Nadu",
+      "phone": "+91 98940 12388",
+      "isVerifiedFarmer": true,
+      "experienceYears": 19,
+      "costToImplement": "Zero Cost (Farm Waste)",
+      "estimatedSavings": "Saves ₹800/acre in seed treatment chemicals & prevents seedling mortality",
+      "timeToSeeResults": "Germinates 2-3 days faster with thick white feeder roots",
+      "difficulty": "Easy (Any Farmer)",
+      "suitableCrops": [
+        "Paddy (Rice)",
+        "Maize",
+        "Vegetable Seeds",
+        "Cotton",
+        "Sugarcane setts",
+        "Fruit cuttings"
+      ],
+      "materialsNeeded": [
+        "Freshly harvested banana pseudostem (stem/trunk) cut into 1-foot pieces",
+        "Manual press or clean heavy wooden pestle to crush stem rings",
+        "Muslin cloth to filter the clear sap",
+        "Seed lot intended for planting"
+      ],
+      "stepByStepGuide": [
+        "Cut 2 to 3 feet of a fresh banana stem that remains after harvesting the fruit bunch.",
+        "Peel outer fibrous sheaths and crush the inner moist white spongy layers in a tub or press using a clean wooden stamper.",
+        "Squeeze out the clear watery sap through a muslin cloth into a clean container (one stem yields 4-8 Liters of sap).",
+        "Immerse your seeds (paddy, maize, pulses) directly in the undiluted banana sap for 30 minutes (or 2 hours for thick-coated seeds).",
+        "Drain seeds on a clean cotton mat in shade for 15 minutes, then sow immediately into moist nursery beds or field lines."
+      ],
+      "scientificReason": "Banana pseudostem sap is rich in natural auxins, cytokinins, and bio-available potassium (K2O), which trigger rapid starch-to-sugar conversion in seed endosperms, promoting uniform radicle emergence and protecting against soil-borne damping-off fungi.",
+      "cautionsOrDoNotDo": [
+        "Use freshly extracted sap within 24 hours as natural fermentation begins thereafter.",
+        "Do not dry treated seeds in harsh direct sunlight."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?auto=format&fit=crop&w=800&q=80",
+      "likesCount": 174,
+      "triedCount": 92,
+      "successRatePercentage": 95,
+      "createdAt": "2026-08-12",
+      "comments": [
+        {
+          "id": "FB-07",
+          "farmerName": "Sunil Biswas",
+          "farmerLocation": "Nadia, West Bengal",
+          "comment": "Treated our Aman paddy seeds with banana sap. 98% germination achieved without a single case of seedling rot. Truly remarkable indigenous method!",
+          "rating": 5,
+          "triedOnFarm": true,
+          "date": "2026-08-20"
+        }
+      ]
+    },
+    {
+      "id": "TIP-2026-007",
+      "title": "Living Bio-Mulch of Sunn Hemp & Cowpea for 100% Weed Suppression & Free Nitrogen",
+      "category": "Weed & Mulching Techniques",
+      "summary": "Broadcast fast-growing Sunnhemp (Sanai) or Cowpea between main crop rows. At 40 days (flowering stage), flatten them with a wooden roller to form a 4-inch weed-choking living mulch blanket that fixes 40kg nitrogen/acre.",
+      "farmerName": "Harish Chandra Verma",
+      "village": "Bilaspur",
+      "district": "Rampur",
+      "state": "Uttar Pradesh",
+      "phone": "+91 94120 66341",
+      "isVerifiedFarmer": true,
+      "experienceYears": 24,
+      "costToImplement": "Low Cost (< ₹500)",
+      "estimatedSavings": "Saves ₹4,000/acre on manual weeding + ₹1,500 on urea fertilizer",
+      "timeToSeeResults": "Complete weed suppression within 15 days; soil retains moisture for 3 weeks",
+      "difficulty": "Moderate",
+      "suitableCrops": [
+        "Sugarcane",
+        "Banana",
+        "Cotton",
+        "Maize",
+        "Fruit Orchards"
+      ],
+      "materialsNeeded": [
+        "8 kg Sunn Hemp (Crotalaria juncea) or Cowpea seeds per acre",
+        "Simple wooden log or empty oil barrel pulled by rope or small tractor (Crimper roller)",
+        "Clean water for one light irrigation after seed broadcast"
+      ],
+      "stepByStepGuide": [
+        "After sowing your main crop (e.g. Sugarcane or Banana), broadcast 8 kg of Sunnhemp or Cowpea seeds in the wide inter-row spaces.",
+        "Provide one light irrigation. Within 5 days, the cover crop sprouts rapidly, out-competing all invasive grasses and broadleaf weeds.",
+        "Allow it to grow for 40 to 45 days until early flowering (peak nitrogen nodulation stage).",
+        "Roll a heavy wooden log or crimper-roller down the inter-rows to bend and crimp the green stems flat on the ground.",
+        "The flattened biomass forms a thick 3-inch living mulch carpet that blocks sunlight to weeds, cools soil temperature by 4-6°C, and slowly decomposes into rich organic matter."
+      ],
+      "scientificReason": "Rhizobium bacteria in Sunnhemp root nodules fix atmospheric nitrogen directly into the rhizosphere. The dense shade of the vegetative blanket completely eliminates light penetration needed for dormant weed seed germination.",
+      "cautionsOrDoNotDo": [
+        "Do not let Sunnhemp grow past 60 days into hard woody seed stage, as woody stems decompose very slowly and rob soil moisture.",
+        "Ensure main crop is tall enough (> 1.5 ft) before crimping the inter-row cover."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80",
+      "likesCount": 215,
+      "triedCount": 130,
+      "successRatePercentage": 98,
+      "createdAt": "2026-07-20",
+      "comments": [
+        {
+          "id": "FB-08",
+          "farmerName": "Vikram Jadhav",
+          "farmerLocation": "Sangli, Maharashtra",
+          "comment": "Did this in my sugarcane field. Zero manual labor for weeding needed all season, and soil stayed moist even during a 20-day dry canal closure.",
+          "rating": 5,
+          "triedOnFarm": true,
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "id": "TIP-2026-008",
+      "title": "Recycled PVC Pipe Deep-Root Aerator & Fertilizer Spear for Fruit Trees",
+      "category": "Farm Tools & DIY Jugaad",
+      "summary": "Drill small holes in 2-inch scrap PVC pipes and sink them vertically into the root zone of fruit trees. Pour compost tea and water directly into the pipe to bypass surface evaporation and weeds.",
+      "farmerName": "Birendra Kumar Jha",
+      "village": "Hajipur",
+      "district": "Vaishali",
+      "state": "Bihar",
+      "phone": "+91 94310 99422",
+      "isVerifiedFarmer": true,
+      "experienceYears": 16,
+      "costToImplement": "Low Cost (< ₹500)",
+      "estimatedSavings": "50% faster fruit tree growth and 80% fertilizer efficiency",
+      "timeToSeeResults": "Noticeable tree vigor and deep taproot formation within 30 days",
+      "difficulty": "Easy (Any Farmer)",
+      "suitableCrops": [
+        "Mango",
+        "Guava",
+        "Banana",
+        "Citrus / Lemon",
+        "Papaya",
+        "Coconut palms"
+      ],
+      "materialsNeeded": [
+        "Scrap 2-inch PVC or drainage pipe cut into 1.5-foot lengths (2 per tree)",
+        "Manual drill or hot iron rod to make 6mm perforations in pipe lower half",
+        "Coarse pea-gravel or crushed bricks to fill inside the pipe",
+        "Small PVC end-cap or inverted coconut shell as top cover"
+      ],
+      "stepByStepGuide": [
+        "Take a 1.5-foot long 2-inch scrap PVC pipe and drill 15-20 small 6mm holes across the bottom 12 inches.",
+        "Using an iron crowbar, make two 1.5-foot deep holes on opposite sides of the tree canopy drip-line.",
+        "Insert the perforated pipe vertically so 2 inches protrude above soil level.",
+        "Fill the inside of the pipe with coarse pea-gravel (this prevents soil from collapsing inside while allowing liquid to percolate freely).",
+        "Pour 2 Liters of Jeevamrut or liquid compost tea directly into the pipe mouth once every 10 days. Moisture and nutrients reach directly to 1.5 feet depth where active feeder roots thrive."
+      ],
+      "scientificReason": "Surface-applied fertilizers often lose up to 40% nitrogen to volatilization and encourage shallow, drought-vulnerable surface roots. Sub-surface vertical percolation trains deep taproot architecture resistant to severe heatwaves and wind lodging.",
+      "cautionsOrDoNotDo": [
+        "Do not place the pipe right against the main tree trunk; always install at the outer drip-line where absorbing root hairs exist.",
+        "Cover pipe top with a loose cap to prevent soil clogging during torrential rains."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=800&q=80",
+      "likesCount": 189,
+      "triedCount": 98,
+      "successRatePercentage": 96,
+      "createdAt": "2026-08-06",
+      "comments": [
+        {
+          "id": "FB-09",
+          "farmerName": "Kishore Goud",
+          "farmerLocation": "Mahabubnagar, Telangana",
+          "comment": "Installed on 120 mango trees. I pour organic liquid manure directly into these pipes. Trees showed 2x new branch flushing compared to flood watering.",
+          "rating": 5,
+          "triedOnFarm": true,
+          "date": "2026-08-15"
+        }
+      ]
+    }
+  ],
+  "fieldWorkLogs": [
+    {
+      "id": "LOG-JCB-2026-01",
+      "workOrderTitle": "Perur Village Lake Desilting & Silt Bund Formation",
+      "locationName": "Perur Big Lake, Coimbatore, Tamil Nadu",
+      "coordinates": {
+        "lat": 10.9702,
+        "lng": 76.9152
+      },
+      "workType": "Excavator / JCB Desilting",
+      "machineryModel": "JCB 3DX Super EcoXcellence (Hydraulic Breaker & Bucket)",
+      "operatorName": "Murugan Selvam",
+      "operatorPhone": "+91 98421 88491",
+      "workforceCount": 12,
+      "status": "Clocked-In / Active",
+      "startTime": "2026-09-15T06:30:00Z",
+      "hoursWorked": 5.5,
+      "siltOrAreaCleared": "620 cubic meters (approx. 45 tractor loads)",
+      "fuelLitres": 42,
+      "costPerHour": 1350,
+      "totalExpense": 7425,
+      "fundingSource": "CSR Grant (ITC / Tata)",
+      "supervisorVerified": true,
+      "supervisorName": "K. Balakrishnan (Water User Assoc. Lead)",
+      "notes": "Excavated fertile silt distributed free to 8 adjacent smallholder organic farms.",
+      "proofPhotos": [
+        {
+          "stage": "before",
+          "url": "https://images.unsplash.com/photo-1542332213-9b5a5a3fad35?auto=format&fit=crop&w=600&q=80",
+          "caption": "Heavy hyacinth weed encroachment and dried mud silt blocking inflow sluice gate",
+          "timestamp": "2026-09-15 06:15 AM"
+        },
+        {
+          "stage": "during",
+          "url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=600&q=80",
+          "caption": "JCB deep trench cutting on northern embankment creating rainwater silt traps",
+          "timestamp": "2026-09-15 09:45 AM"
+        }
+      ]
+    },
+    {
+      "id": "LOG-TRC-2026-02",
+      "workOrderTitle": "Alkaline Soil Biochar & Gypsum Deep Rotary Tillage",
+      "locationName": "Anand District Agro-Cluster Plot #14, Gujarat",
+      "coordinates": {
+        "lat": 22.5645,
+        "lng": 72.9289
+      },
+      "workType": "Biochar / Gypsum Spreading",
+      "machineryModel": "Mahindra 575 DI (45 HP) with Rotary Tiller & Spreader",
+      "operatorName": "Rameshwar Solanki",
+      "operatorPhone": "+91 97245 11928",
+      "workforceCount": 6,
+      "status": "Completed & Verified",
+      "startTime": "2026-09-14T07:00:00Z",
+      "endTime": "2026-09-14T15:30:00Z",
+      "hoursWorked": 8.5,
+      "siltOrAreaCleared": "4.8 Acres Calcareous Soil",
+      "fuelLitres": 55,
+      "costPerHour": 950,
+      "totalExpense": 8075,
+      "fundingSource": "Panchayat Fund",
+      "supervisorVerified": true,
+      "supervisorName": "Dr. V. N. Joshi (Block Agronomist)",
+      "notes": "Applied 1.2 Tons Gypsum + 400kg biochar to displace exchangeable sodium before monsoon sowing.",
+      "proofPhotos": [
+        {
+          "stage": "before",
+          "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=600&q=80",
+          "caption": "Crusted saline soil with zero vegetative emergence and surface salt deposits",
+          "timestamp": "2026-09-14 06:45 AM"
+        },
+        {
+          "stage": "during",
+          "url": "https://images.unsplash.com/photo-1589873964470-663002994a00?auto=format&fit=crop&w=600&q=80",
+          "caption": "Tractor spreader dispersing crushed gypsum and seasoned biochar mix",
+          "timestamp": "2026-09-14 11:15 AM"
+        },
+        {
+          "stage": "completed",
+          "url": "https://images.unsplash.com/photo-1592417817098-8f3d6910985c?auto=format&fit=crop&w=600&q=80",
+          "caption": "Aerated soil bed prepared with organic mulching cover ready for sun-curing",
+          "timestamp": "2026-09-14 03:45 PM"
+        }
+      ]
+    },
+    {
+      "id": "LOG-MAN-2026-03",
+      "workOrderTitle": "Community Vetiver Plantation & Canal Embankment Shramdaan",
+      "locationName": "Vaigai Tributary Feeder Channel, Madurai, Tamil Nadu",
+      "coordinates": {
+        "lat": 9.9252,
+        "lng": 78.1198
+      },
+      "workType": "Vetiver / Sapling Plantation",
+      "machineryModel": "Earth Auger + 2x Hand Silt Pushers",
+      "operatorName": "S. Alagarsamy",
+      "operatorPhone": "+91 94432 77019",
+      "workforceCount": 28,
+      "status": "Completed & Verified",
+      "startTime": "2026-09-13T06:00:00Z",
+      "endTime": "2026-09-13T12:00:00Z",
+      "hoursWorked": 6,
+      "siltOrAreaCleared": "1.2 km canal bund protected (1,400 vetiver slips planted)",
+      "fuelLitres": 8,
+      "costPerHour": 800,
+      "totalExpense": 4800,
+      "fundingSource": "MGNREGA Scheme",
+      "supervisorVerified": true,
+      "supervisorName": "P. Meenakshi (VAO / Panchayat Secretary)",
+      "notes": "Zero mechanical diesel emissions. 100% soil bio-engineering using dense vetiver root systems to prevent erosion.",
+      "proofPhotos": [
+        {
+          "stage": "before",
+          "url": "https://images.unsplash.com/photo-1542332213-9b5a5a3fad35?auto=format&fit=crop&w=600&q=80",
+          "caption": "Collapsing feeder canal mud wall vulnerable to monsoon wash-out",
+          "timestamp": "2026-09-13 05:45 AM"
+        },
+        {
+          "stage": "completed",
+          "url": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&w=600&q=80",
+          "caption": "Double-row high density vetiver hedges planted along water line",
+          "timestamp": "2026-09-13 12:15 PM"
+        }
+      ]
+    }
+  ],
+  "registeredUsers": [
+    {
+      "id": "USR-G-8983",
+      "name": "Test Farmer",
+      "email": "testfarmer@gmail.com",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Test%20Farmer",
+      "phone": "+91 98421 77340",
+      "address": "Registered Google User",
+      "role": "user",
+      "authProvider": "google",
+      "quickPassword": "eden123"
+    },
+    {
+      "id": "USR-GOOGLE-DEEPAK",
+      "name": "Deepak Kumar",
+      "phone": "+91 98421 77340",
+      "email": "kumarapdeepak16@gmail.com",
+      "address": "Coimbatore, Tamil Nadu, India",
+      "role": "user",
+      "authProvider": "google",
+      "quickPassword": "eden123",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "identityCardType": "Aadhaar Card",
+      "identityCardNumber": "5432-8765-1098",
+      "identityCardFile": "Aadhaar_DeepakKumar.pdf",
+      "landDocumentType": "Patta / Chitta (Revenue Record)",
+      "landDocumentNumber": "Patta No. 451/2024",
+      "landDocumentFile": "Patta_Chitta_Deed_114.pdf",
+      "landPhotoUrls": [
+        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=800&q=80"
+      ]
+    }
+  ]
+}

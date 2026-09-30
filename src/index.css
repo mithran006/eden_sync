@@ -1,0 +1,111 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  
+  --color-organic-bg: #F4F1EA;
+  --color-organic-card: #FAF8F5;
+  --color-organic-sand: #EFECE6;
+  --color-organic-green: #2D4F1E;
+  --color-organic-green-dark: #1F3814;
+  --color-organic-green-light: #3D682A;
+  --color-organic-terracotta: #C08261;
+  --color-organic-terracotta-dark: #A06445;
+  --color-organic-terracotta-light: #D89F80;
+  --color-organic-gold: #D4A359;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #F4F1EA;
+  color: #2D4F1E;
+  font-family: var(--font-sans);
+  background-image: 
+    radial-gradient(circle at 15% 15%, rgba(192, 130, 97, 0.04) 0%, transparent 40%),
+    radial-gradient(circle at 85% 65%, rgba(45, 79, 30, 0.04) 0%, transparent 45%),
+    radial-gradient(circle at 50% 90%, rgba(212, 163, 89, 0.03) 0%, transparent 50%);
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+h1, h2, h3, .font-display {
+  font-family: var(--font-serif);
+}
+
+/* Subtle organic mesh texture utility */
+.organic-pattern-bg {
+  background-color: #F4F1EA;
+  background-image: radial-gradient(#C08261 0.75px, transparent 0.75px), radial-gradient(#2D4F1E 0.75px, #F4F1EA 0.75px);
+  background-size: 30px 30px;
+  background-position: 0 0, 15px 15px;
+  background-opacity: 0.02;
+}
+
+/* Ambient glow containers */
+.eden-card {
+  background-color: #FAF8F5;
+  border: 1px solid rgba(192, 130, 97, 0.22);
+  box-shadow: 0 4px 20px -2px rgba(45, 79, 30, 0.05), 0 2px 6px -1px rgba(0, 0, 0, 0.02);
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.eden-card:hover {
+  border-color: rgba(192, 130, 97, 0.45);
+  box-shadow: 0 12px 32px -4px rgba(45, 79, 30, 0.1), 0 4px 12px -2px rgba(192, 130, 97, 0.08);
+  transform: translateY(-2px);
+}
+
+/* Interactive button feedback */
+.eden-btn-primary {
+  background-color: #C08261;
+  color: #F4F1EA;
+  transition: all 0.2s ease;
+}
+.eden-btn-primary:hover {
+  background-color: #A06445;
+  box-shadow: 0 6px 18px -2px rgba(160, 100, 69, 0.35);
+}
+
+.eden-btn-forest {
+  background-color: #2D4F1E;
+  color: #F4F1EA;
+  transition: all 0.2s ease;
+}
+.eden-btn-forest:hover {
+  background-color: #1F3814;
+  box-shadow: 0 6px 18px -2px rgba(31, 56, 20, 0.35);
+}
+
+/* Selection and scrollbar */
+::selection {
+  background-color: #C08261;
+  color: #F4F1EA;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #EFECE6;
+}
+::-webkit-scrollbar-thumb {
+  background: #C08261;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #A06445;
+}
+
